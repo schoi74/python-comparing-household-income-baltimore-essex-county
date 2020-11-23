@@ -30,7 +30,7 @@ We will use Microsoft Excel to answer these questions:
 
 - __What are the highest average household income from black and white families in Baltimore, MD and Essex County, MA?__ Exploring highest average household income by using data reorganization and vlookups. 
 
-## Data Answer
+## Data Answer - Excel
 
 ### What does the household income disparity between the black and white families look like in Essex County, MA?
 ![alt text](https://github.com/schoi74/comparing-household-income-baltimore-essex-county/blob/master/black%20and%20white%20in%20essex1.png)
@@ -57,13 +57,26 @@ Here we notice that the sample size of white familes from both cities are closer
 
 Here we see the top 5 highest average household income families for both black and white families in both cities. We first notice how the household income of white families in Baltimore are nearly double that of black families, which is the problem we seek to resolve and alleviate. On the other hand, even though there is a significant difference in household income between black and white families in Essex County, the degree is not as significant. 
 
-## Summary
+## Data Answer - Python
+
+### What does the household income disparity between the black and white families look like in Baltimore, MD?
+![alt_text]()
+![alt_text]()
+
+### What does the household income disparity between the black and white families look like in Essex County, MA?
+
+## Summary - Excel
 - The findings show that, in general, the disparity of household income between black and white families in Baltimore is greater than in Essex County.
 - The demographics of Essex County is notably less diverse than that of Baltimore city.
 - The mean household income of Essex County is greater than that of Baltimore for both black and white families.
 - The differences of the highest average household income of those in Baltimore were considerably substantial than in Essex County.
 - Bigger data availability and additional sample sizes of families in Essex County would be helpful to more directly compare and grasp a better understanding of the status-quo.
 
+## Summary - Python
+The findings 
+
+## Python vs. Excel
+Python
 
 ## Step-by-Step of Excel Analysis
 1. import raw data for Baltimore and Essex County in an Excel spreadsheet.
