@@ -61,9 +61,12 @@ Here we see the top 5 highest average household income families for both black a
 
 ### What does the household income disparity between the black and white families look like in Baltimore, MD?
 ![alt_text]()
-![alt_text]()
 
 ### What does the household income disparity between the black and white families look like in Essex County, MA?
+![alt_text]()
+
+### What are the mean household incomes in each city?
+![alt_text]()
 
 ## Summary - Excel
 - The findings show that, in general, the disparity of household income between black and white families in Baltimore is greater than in Essex County.
