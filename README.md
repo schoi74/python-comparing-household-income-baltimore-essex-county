@@ -66,7 +66,7 @@ Here we see the top 5 highest average household income families for both black a
 ![alt_text]()
 
 ### What are the mean household incomes in each city?
-![alt_text]()
+![alt_text](https://github.com/schoi74/python-comparing-household-income-baltimore-essex-county/blob/main/average%20household%20income.png)
 
 ## Summary - Excel
 - The findings show that, in general, the disparity of household income between black and white families in Baltimore is greater than in Essex County.
