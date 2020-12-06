@@ -60,7 +60,7 @@ Here we see the top 5 highest average household income families for both black a
 ## Data Answer - Python
 
 ### What does the household income disparity between the black and white families look like in Baltimore, MD?
-![alt_text]()
+![alt_text](https://github.com/schoi74/python-comparing-household-income-baltimore-essex-county/blob/main/baltimore%20household%20income.png)
 
 ### What does the household income disparity between the black and white families look like in Essex County, MA?
 ![alt_text]()
