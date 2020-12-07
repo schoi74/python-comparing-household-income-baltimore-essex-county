@@ -6,8 +6,10 @@ On January 30, 2017, Carrie Wells published an [article](https://www.baltimoresu
 As Wells mentions how the studys' authors did not make any straightforward recommendations to alleviate the problem or "specific policies", CFED "plans on working with six Baltimore nonprofits over the next year to address economic disparities". It has been three and a half years since the publication of this article, but has there been real progress since then? How do we know if CFED has been successful on closing the economic gap between different racial communities in Baltimore? How is the economic disparity like in my high school's county? We will delve more into the data provided by [Opportunity Atlas](https://www.opportunityatlas.org) to further analyze the economic disparities between black and white communities in Baltimore city and my high school county, Essex county, Massachusetts.
 
 ![alt text](https://github.com/schoi74/comparing-household-income-baltimore-essex-county/blob/master/black%20and%20white%20in%20baltimore1.png)
+
 ## Business Question
 _How can Baltimore city and Essex County, MA both decrease the economic gap of household income between the black and white families, and what metrics should the cities measure to monitor their progress and how does geography and demographics affect the disparity between racial communities?_
+
 ## Data Question - Open Data
 We'll use open data from one source:
 - Opportunity Atlas: this research group constructs ["publicly available atlas of children's outcomes in adulthood by Census tract using anonymized longitudinal data covering nearly the entire U.S. population".](https://opportunityinsights.org/paper/the-opportunity-atlas/) We will be using four datasets from this platform:
@@ -17,6 +19,7 @@ We'll use open data from one source:
      ii. Essex County: Orginal open data on household income for black and white families in Essex County, MA.
      
      iii. It is important to note that there is a difference in demographics in  two regions in terms of diversity of race. There can be margins of error in these household income data as Essex County is a predominantly white county, while Baltimore is more diverse with a bigger black community.
+     
 ## Data Question - Analysis
 We will use Microsoft Excel to answer these questions:
 
@@ -87,7 +90,11 @@ Here, similar to that of the Excel analysis, we can see that the household incom
 The findings from Python analysis are clear and easier to interpret that those from Excel analysis. In general, the disparities of household income between black and white families in both Baltimore City and Essex County are notably present. In comparison, the difference of household income between the two racial groups in Baltimore City is greater than that of in Essex County and the demographics of Essex County is notably less diverse than that of Baltimore City. For future steps, bigger data availability and additional sample sizes of families in both Baltimore City and Essex County for all races would be helpful to more directly compare and have a better understanding of the status-quo and the steps that the cities can take to improve the people's lives.
 
 ## Python vs. Excel
-Python 
+As I closely replicated the analysis that I did with Excel, there was nothing new that I did with Python. However, I could definitely tell some of the differences between Excel and Python. Excel is definitely easier and more accessible for users when dealing with smaller data where one can easily manipulate and adjust the data and the analysis with a few clicks of a button. However, after conducting the same analysis with Python, I believe that Python can be a better method of data analysis when it comes to bigger data and more variables to deal with. It did take me a long time to get used to and learn all the codes necessary to analyze the data on Python. However, being able to multiple things with a single or a few lines of code rather than clicking through Excel to make adjustments seemed a lot more practical, efficient, and effective. 
+
+## Python Codes
+
+Code for the Python Analysis can be found [here](https://colab.research.google.com/drive/1GJGagxMgoVbA-wT-8NPZtXzZflTTUC9n#scrollTo=L5ftCKFPXmm-).
 
 ## Step-by-Step of Excel Analysis
 1. import raw data for Baltimore and Essex County in an Excel spreadsheet.
