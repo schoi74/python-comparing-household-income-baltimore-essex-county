@@ -59,14 +59,22 @@ Here we see the top 5 highest average household income families for both black a
 
 ## Data Answer - Python
 
+Instead of visualizing the data with bar graphs to compare the household incomes of white and black families in Baltimore City and Essex County, line graphs seemed to be the better choice as it makes it more clear to see the household income discrepancies between the two races. 
+
 ### What does the household income disparity between the black and white families look like in Baltimore, MD?
 ![alt_text](https://github.com/schoi74/python-comparing-household-income-baltimore-essex-county/blob/main/baltimore%20household%20income.png)
+
+Here, we can see that the household incomes for white families in Baltimore are far higher than those of black families. This directly reflects the status-quo of racial discrepancies in Baltimore City in the [article](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-racial-wealth-divide-20170130-story.html) and an ideal starting point for CFED or any developmental enterprises to dig deeper in order to provide equal and just opportunities for all racial groups within cities and neighborhoods.
 
 ### What does the household income disparity between the black and white families look like in Essex County, MA?
 ![alt_text](https://github.com/schoi74/python-comparing-household-income-baltimore-essex-county/blob/main/essex%20household%20income.png)
 
+Here, we first notice the massive sample size difference between black and white families in Essex County. As Essex County is considered to be a predominantly white county, the racial diversity is not as profound as that in Baltimore. Even though a similar sample and data size would be more clear to compare and evaluate, we can derive that the household income of white families is significantly higher than that of black families, just like Baltimore.
+
 ### What are the mean household incomes in each city?
 ![alt_text](https://github.com/schoi74/python-comparing-household-income-baltimore-essex-county/blob/main/average%20household%20income.png)
+
+Here, similar to that of the Excel analysis, we can see that the household incomes for both black and white families from Essex County are higher than those from Baltimore, MD. Also, within each city, the household income is significantly greater for white families than that of black families. This gives us an overall idea of how geography and race impact the household income and where the cities can start alleviating the disparities in the near future.
 
 ## Summary - Excel
 - The findings show that, in general, the disparity of household income between black and white families in Baltimore is greater than in Essex County.
@@ -76,10 +84,10 @@ Here we see the top 5 highest average household income families for both black a
 - Bigger data availability and additional sample sizes of families in Essex County would be helpful to more directly compare and grasp a better understanding of the status-quo.
 
 ## Summary - Python
-The findings 
+The findings from Python analysis are clear and easier to interpret that those from Excel analysis. In general, the disparities of household income between black and white families in both Baltimore City and Essex County are notably present. In comparison, the difference of household income between the two racial groups in Baltimore City is greater than that of in Essex County and the demographics of Essex County is notably less diverse than that of Baltimore City. For future steps, bigger data availability and additional sample sizes of families in both Baltimore City and Essex County for all races would be helpful to more directly compare and have a better understanding of the status-quo and the steps that the cities can take to improve the people's lives.
 
 ## Python vs. Excel
-Python
+Python 
 
 ## Step-by-Step of Excel Analysis
 1. import raw data for Baltimore and Essex County in an Excel spreadsheet.
